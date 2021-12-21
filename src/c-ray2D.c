@@ -1,6 +1,6 @@
 #include<math.h>
 #include <stdlib.h>
-#include "raycast.h"
+#include "c-ray2D.h"
 
 RayCollision2D GetRay2DCollisionLine(Ray2D cast, Vector2 startPos, Vector2 endPos)
 {    

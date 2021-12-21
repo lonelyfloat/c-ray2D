@@ -1,4 +1,4 @@
-SOURCE_FILES ?= src/raycast.c src/main.c
+SOURCE_FILES ?= src/c-ray2D.c src/main.c
 PLATFORM ?= PLATFORM_DESKTOP
 FINAL_FILES = SOURCE_FILES
 
@@ -23,4 +23,4 @@ all:
 	$(COMMAND)
 
 lib:
-	gcc -c src/raycast.c -Os -std=c99 -Wall
+	gcc -c src/c-ray2D.c -Os -std=c99 -Wall

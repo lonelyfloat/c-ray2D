@@ -1,5 +1,5 @@
-#ifndef H_RAYCAST2D
-#define H_RAYCAST2D
+#ifndef H_CRAY2D
+#define H_CRAY2D
 
 #include <stdbool.h>
 #ifndef RL_RECTANGLE_TYPE
