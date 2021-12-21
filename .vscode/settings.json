@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "raylib.h": "c",
+        "raygui.h": "c",
+        "effects.h": "c",
+        "malloc.h": "c",
+        "raymath.h": "c",
+        "limits": "c",
+        "stdio.h": "c",
+        "emscripten.h": "c",
+        "raycast.h": "c",
+        "stdlib.h": "c",
+        "math.h": "c",
+        "stdbool.h": "c"
+    }
+}
